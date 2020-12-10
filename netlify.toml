@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://track.customer.io/:splat"
+  status = 200
+  headers = {Host = "email.tuple.app"}
